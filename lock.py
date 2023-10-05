@@ -15,8 +15,8 @@ PASSWORD_FILE = "password.txt"
 FACE_MODEL = cv2.face_LBPHFaceRecognizer.create()
 
 # Gmail credentials
-GMAIL_USER = "manan.sharma2020@vitstudent.ac.in"  # Replace with your Gmail email
-GMAIL_PASSWORD = "_Viratkohli18"  # Replace with your Gmail password or App Password
+GMAIL_USER = "email"  # Replace with your Gmail email
+GMAIL_PASSWORD = "password"  # Replace with your Gmail password or App Password
 
 # Function to lock the file using LBPH face recognition
 def lock_file():
